@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">My name is Nilvan Peres </h3>
+# :grinning: Hi there, I am Nilvan Peres
 
 <br/>
 
@@ -17,14 +16,6 @@
 
 [![Linkedin: Nilvan Peres](https://img.shields.io/badge/-NilvanPeres-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NilvanPeres/)](https://www.linkedin.com/in/nilvan-peres-costa-594611182/)
 [![GitHub Nilvan Peres Jr](https://img.shields.io/github/followers/juninhigh?label=follow&style=social)](https://github.com/juninhigh)
-
-<a href="https://github.com/juninhigh/github-readme-stats">
-  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=juninhigh&hide=jupyter%20notebook,html&layout=compact&theme=dracula" />
-</a>
-
-<a href="https://github.com/juninhigh/github-readme-statst">
-  <img align="left"  height='150px' src="https://github-readme-stats.vercel.app/api?username=juninhigh&show_icons=true&theme=dracula" />
-</a>
 
 ### :mailbox_with_mail: Find me and get in touch
 
@@ -53,3 +44,5 @@
 </a>
 
 <br />
+
+
